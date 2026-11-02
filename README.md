@@ -28,12 +28,10 @@ The project supports the following format specifiers:
 
 
 ```
-
 ## ⚙️ Compilation
 
 To compile the library, clone the repository and run:
 
-```bash
 git clone <repository-url>
 cd ft_printf
 make
@@ -136,7 +134,3 @@ Make sure to test:
 ## 👤 Author
 
 **gvasylie**
-
----
-
-*This project was developed as part of the 42 School Common Core curriculum.*
