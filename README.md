@@ -26,28 +26,8 @@ The project supports the following format specifiers:
 | `%X` | Prints a number in uppercase hexadecimal |
 | `%%` | Prints a percent sign |
 
-## 📂 Project Structure
 
-```text
-ft_printf/
-│
-├── includes/
-│   └── ft_printf.h
-│
-├── src/
-│   ├── ft_printf.c
-│   ├── ft_putchar.c
-│   ├── ft_putstr.c
-│   ├── ft_putnbr.c
-│   ├── ft_putunsigned.c
-│   ├── ft_puthex.c
-│   └── ft_putptr.c
-│
-├── Makefile
-└── README.md
 ```
-
-*The structure above is an example. Adjust it to match your actual project files.*
 
 ## ⚙️ Compilation
 
